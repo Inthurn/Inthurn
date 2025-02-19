@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Gabriel!
 
-Sou um desenvolvedor backend com conhecimento em infraestrutura, apaixonado por criar soluções eficientes e escaláveis. Tenho experiência no desenvolvimento de aplicações como apps, sites, microSaaS e jogos eletrònicos, sempre focando em qualidade e performance.
+Sou um desenvolvedor fullstack com conhecimento em infraestrutura, apaixonado por criar soluções eficientes e escaláveis. Tenho experiência no desenvolvimento de aplicações como apps, sites, microSaaS e jogos eletrònicos, sempre focando em qualidade e performance.
 
 ---
 
