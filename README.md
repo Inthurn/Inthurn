@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @Inthurn
-- 👀 I’m interested to acquire knowledge about software develpment.
-- 🌱 I’m currently learning about Java && Spring.
-- 💞️ I’m looking to collaborate on any project who helps me to evolve.
+# 👋 Olá, me chamo Gabriel!
 
+Sou um desenvolvedor backend com conhecimento em infraestrutura, apaixonado por criar soluções eficientes e escaláveis. Tenho experiência no desenvolvimento de aplicações como apps, sites, microSaaS e jogos eletrònicos, sempre focando em qualidade e performance.
 
-<!---
-Inthurn/Inthurn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Habilidades Técnicas
+
+### Backend
+
+- Java (Spring Boot, JPA, Hibernate)
+- Node.js
+- Bancos de dados SQL (PostgreSQL, MySQL) e NoSQL (MongoDB, Redis)
+- API RESTful & GraphQL
+- Microservices & Arquitetura escalável
+
+### Frontend
+
+- Javascript/Typescript
+- Html, CSS
+- NextJs / ReactJs
+- VueJs / NuxtJS
+- TailwindCss
+
+### Mobile
+- Android Nativo (Java)
+- Flutter
+- Dart
+  
+### Infraestrutura
+
+- Docker & Kubernetes
+- AWS (EC2, S3, RDS, Lambda)
+- CI/CD (GitHub Actions, GitLab CI/CD)
+
+### Desenvolvimento de Jogos
+- C# / C++ / Blueprints (Unreal)
+- Unity 
+- Unreal Engine
+
+---
+
+## 📫 Como me encontrar?
+
+- **LinkedIn:** https://linkedin.com/in/gabrielinthurn
+- **E-mail:** contato@inthurn.com.br
+- **Site:** inthurn.com.br (Em manutenção)
+
+Sinta-se à vontade para entrar em contato ou explorar meus projetos! 🚀
